@@ -1,6 +1,6 @@
 // Command mc prints in multiple columns.
 //
-//   Usage: mc [-] [-N] [file...]
+//	Usage: mc [-] [-N] [file...]
 //
 // Mc splits the input into as many columns as will fit in N
 // print positions. If the output is a tty, the default N is
@@ -15,8 +15,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/creack/pty"
-	"github.com/kr/text/colwriter"
+	"github.com/danrubel/pty_go"
+	"github.com/danrubel/text_go/colwriter"
 )
 
 func main() {

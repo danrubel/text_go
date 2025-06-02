@@ -1,2 +1,2 @@
-github.com/creack/pty v1.1.17 h1:QeVUsEDNrLBW4tMgZHvxy18sKtr6VI492kBhUfhDJNI=
-github.com/creack/pty v1.1.17/go.mod h1:MOBLtS5ELjhRRrroQr9kyvTxUAFNvYEK993ew/Vr4O4=
+github.com/danrubel/pty_go v1.1.18-0.20250602203553-918e34195a9f h1:fusJMsSoVI1+sToKqlW9VVefbbIS4IhGSF10zXdmMxc=
+github.com/danrubel/pty_go v1.1.18-0.20250602203553-918e34195a9f/go.mod h1:9Iau9WSPpfGuweypSlM9yLbu/J3g1DFgDSorEc6kvwk=
